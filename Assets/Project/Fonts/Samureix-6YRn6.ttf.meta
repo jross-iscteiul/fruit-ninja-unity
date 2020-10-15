@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 45409eafb9eef8a4f9b8b0bd94c0311f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Samureix
+  fontNames:
+  - Samureix-1
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f26e82590661574fb539badfbd6d636, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
